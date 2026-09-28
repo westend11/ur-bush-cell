@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# captures are ~8 MB each (png + depth map)
+captures/
+out_centre/
+testing/results/
